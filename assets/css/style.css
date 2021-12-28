@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Pushster&family=Rock+3D&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+
+
+h1{
+   /*  font-family: 'Pushster', cursive; */
+    font-family: 'Shizuru', cursive;
+}
+
+p{
+   /*  font-family: 'Rock 3D', cursive; */
+    font-family: 'Shizuru', cursive ;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+.curva{
+    width: 1000px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 0rem;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
